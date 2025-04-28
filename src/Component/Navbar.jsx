@@ -1,8 +1,4 @@
 import React from 'react'
-import { IoSearch } from "react-icons/io5";
-import SearchBar from './SearchBar';
-import TypeFilter from './TypeFilter';
-
 function Navbar() {
   return (
     <>
